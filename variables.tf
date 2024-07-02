@@ -4,7 +4,7 @@ variable "name" {
 
 variable "source_instance_id" {
   description = "id of the instance"
-  default = "i-01dc6255aced60201"
+  default = "i-00e42f96060deb2a0"
 }
 
 variable "availability_zones" {
